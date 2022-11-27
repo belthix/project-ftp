@@ -1,5 +1,10 @@
-FTP Package: https://www.npmjs.com/package/ftp
+Node FTP Package: https://www.npmjs.com/package/ftp
+
 Electron Main: https://www.electronjs.org/
 Electron Context Isolation: https://www.electronjs.org/docs/latest/tutorial/context-isolation
 Electron Fireship Tutorial: https://www.youtube.com/watch?v=3yqDxhR2XxE
 Electron Hour Tutorial: https://www.youtube.com/watch?v=kN1Czs0m1SU
+
+Python in Node: https://www.geeksforgeeks.org/run-python-script-using-pythonshell-from-node-js/
+
+C++ in Linux: https://www.geeksforgeeks.org/how-to-compile-and-run-a-c-c-code-in-linux/
